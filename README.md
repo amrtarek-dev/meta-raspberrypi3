@@ -1,3 +1,6 @@
+# meta-raspberrypi3
+Raspberry Pi 3 - yocto - core-image-base
+
 This README file contains information on the contents of the meta-rpi3 layer.
 
 Please see the corresponding sections below for details.
